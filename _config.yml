@@ -1,1 +1,10 @@
+title: Firefox Design Systems Newsletter
+author:
+  name: Jules Simplicio
+  email: jules@mozilla.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  A collection of our team newsletters.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
 theme: minima
